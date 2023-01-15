@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50a218a1.css",
+    "main.js": "/static/js/main.45f06be6.js",
+    "static/media/railway-bridge.jpg": "/static/media/railway-bridge.4048ce23046cf34d0f5d.jpg",
+    "static/media/sleepers.jpg": "/static/media/sleepers.397eaefe47c6ccfc2442.jpg",
+    "static/media/brake-shoe.jpg": "/static/media/brake-shoe.9d47b63707b4bde0e49c.jpg",
+    "static/media/lokomotive.jpg": "/static/media/lokomotive.784790f25de3b463cf25.jpg",
+    "static/media/platform-car.jpg": "/static/media/platform-car.8bb3aea786cb8a6c79c1.jpg",
+    "static/media/sapsan.jpg": "/static/media/sapsan.e041d5177817e4617842.jpg",
+    "static/media/hopper.jpg": "/static/media/hopper.1c62a8e921d41c2e86a2.jpg",
+    "index.html": "/index.html",
+    "main.50a218a1.css.map": "/static/css/main.50a218a1.css.map",
+    "main.45f06be6.js.map": "/static/js/main.45f06be6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a218a1.css",
+    "static/js/main.45f06be6.js"
+  ]
+}
