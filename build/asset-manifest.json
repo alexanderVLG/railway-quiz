@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ae9c13c.css",
-    "main.js": "/static/js/main.85c39b7c.js",
+    "main.css": "/static/css/main.d8ba940f.css",
+    "main.js": "/static/js/main.403de47f.js",
     "static/media/railway-bridge.jpg": "/static/media/railway-bridge.4048ce23046cf34d0f5d.jpg",
     "static/media/sleepers.jpg": "/static/media/sleepers.397eaefe47c6ccfc2442.jpg",
     "static/media/brake-shoe.jpg": "/static/media/brake-shoe.9d47b63707b4bde0e49c.jpg",
@@ -10,11 +10,11 @@
     "static/media/sapsan.jpg": "/static/media/sapsan.e041d5177817e4617842.jpg",
     "static/media/hopper.jpg": "/static/media/hopper.1c62a8e921d41c2e86a2.jpg",
     "index.html": "/index.html",
-    "main.9ae9c13c.css.map": "/static/css/main.9ae9c13c.css.map",
-    "main.85c39b7c.js.map": "/static/js/main.85c39b7c.js.map"
+    "main.d8ba940f.css.map": "/static/css/main.d8ba940f.css.map",
+    "main.403de47f.js.map": "/static/js/main.403de47f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ae9c13c.css",
-    "static/js/main.85c39b7c.js"
+    "static/css/main.d8ba940f.css",
+    "static/js/main.403de47f.js"
   ]
 }

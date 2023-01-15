@@ -28,6 +28,10 @@ h1 {
   width: 500px;
   background-color: #fff;
   border-radius: 20px;
+  
+  img {
+    margin-top: 100px;
+  }
 
   ol {
 
@@ -40,6 +44,16 @@ h1 {
     text-align: center;
     font-size: 24px;
 
+    span:nth-child(1n) {
+      color:#009900;
+    }
+
+    span:nth-child(2n) {
+      color: darkorange;
+    }
+  }
+
+  h2 {
     span:nth-child(1n) {
       color:#009900;
     }
