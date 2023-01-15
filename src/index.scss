@@ -22,7 +22,7 @@ h1 {
 }
 
 .container {
-  margin-top: 100px;
+  margin-top: 50px;
   margin-bottom: 40px;
   padding: 40px;
   width: 500px;
@@ -38,6 +38,15 @@ h1 {
 
   h1 {
     text-align: center;
+    font-size: 24px;
+
+    span:nth-child(1n) {
+      color:#009900;
+    }
+
+    span:nth-child(2n) {
+      color: darkorange;
+    }
   }
 
   .first-page__text {
@@ -50,13 +59,14 @@ h1 {
     text-decoration: none;
     color: white;
     font-size: 24px;
-    background-color:  #FA4F4C;
+    background-color:  #009900;
     border-radius: 10px;
   }
   @media (max-width: 600px) {
     width: 240px;
 }
 }
+
 .container,
 .quiz__container,
 .result__container {

@@ -7,7 +7,8 @@ export default function FirstPage  ()  {
   return (
     <div className="container">
       <img src={logo} alt="Логотип." />
-      <h1>Викторина «Что мы знаем о железной дороге?» для детей в подготовительной группе.</h1>
+      <h1>
+      <span>В</span><span>и</span><span>к</span><span>т</span><span>о</span><span>р</span><span>и</span><span>н</span><span>а</span> <span>«</span><span>Ч</span><span>т</span><span>о</span> <span>м</span><span>ы</span> <span>з</span><span>н</span><span>а</span><span>е</span><span>м</span> <span>о</span> <span>ж</span><span>е</span><span>л</span><span>е</span><span>з</span><span>н</span><span>о</span><span>й</span> <span>д</span><span>о</span><span>р</span><span>о</span><span>г</span><span>е</span><span>?</span><span>»</span> <span>д</span><span>л</span><span>я</span> <span>д</span><span>е</span><span>т</span><span>е</span><span>й</span> <span>в</span> <span>п</span><span>о</span><span>д</span><span>г</span><span>о</span><span>т</span><span>о</span><span>в</span><span>и</span><span>т</span><span>е</span><span>л</span><span>ь</span><span>н</span><span>о</span><span>й</span> <span>г</span><span>р</span><span>у</span><span>п</span><span>п</span><span>е</span><span>.</span></h1>
       <p className="first-page__text">Цели и задачи:</p>
       <ol>
         <li>Способствовать закреплению полученных знаний о железной дороге.</li>
@@ -16,7 +17,7 @@ export default function FirstPage  ()  {
             решению проблемных ситуаций.
         </li>
       </ol>
-      <Link to="quiz" className="first-page__link">Перейти к викторине</Link>
+      <Link to="quiz" className="first-page__link">Нажми!</Link>
     </div>
   )
 }
