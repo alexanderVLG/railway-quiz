@@ -20,7 +20,7 @@ export default function FirstPage  ()  {
         </li>
       </ol>
       <Link to="quiz" className="first-page__link">Нажми!</Link>
-      <div>Выполнила: Файзуллина Л.А.</div>
+      <p>Выполнила: Воспитатель Детского сада №2 ОАО &#171;РЖД&#187; Файзуллина Л.А.</p>
     </div>
   )
 }
